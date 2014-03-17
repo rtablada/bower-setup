@@ -1,0 +1,6 @@
+{
+	"name": "rtablada.bower-setup",
+	"scripts": [
+		"bower-setup.sh"
+	]
+}
